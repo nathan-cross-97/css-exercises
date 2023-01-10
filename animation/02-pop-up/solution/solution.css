@@ -55,7 +55,7 @@ button {
 .popup-modal.show {
   opacity: 100%;
   pointer-events: all;
-}
+} 
 
 .backdrop.show {
   opacity: 30%;
