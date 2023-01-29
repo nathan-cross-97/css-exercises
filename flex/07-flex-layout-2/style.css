@@ -50,8 +50,9 @@ body {
   padding: 32px;
 }
 .content {
-  flex: 1;
+  flex: 1; 
   display: flex;
+  
 }
 
 ul {
